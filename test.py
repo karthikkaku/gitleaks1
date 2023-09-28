@@ -1,0 +1,2 @@
+API_KEY = "my_api_key"
+PASSWORD = "my_password"
